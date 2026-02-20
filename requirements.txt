@@ -1,0 +1,29 @@
+# Core Framework
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+
+# LangChain & RAG
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-huggingface==0.1.0
+
+# Vector Store
+faiss-cpu==1.8.0.post1
+
+# Embeddings & LLM
+sentence-transformers>=3.1.0
+transformers>=4.46.0
+torch>=2.0.0
+
+# PDF Processing
+pypdf==4.3.1
+
+# UI
+streamlit==1.38.0
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.9.1
+pydantic-settings==2.5.2
+requests==2.32.3
