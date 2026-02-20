@@ -7,6 +7,10 @@ A **Retrieval-Augmented Generation (RAG)** application that lets you upload PDF 
 ![LangChain](https://img.shields.io/badge/LangChain-0.3-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+## 🎥 Demo
+
+📺 **[Watch Demo Video](https://drive.google.com/drive/folders/1nMn1185RunjcFTl106SpbVYthzS6X3ED?usp=sharing)**
+
 ---
 
 ## 🏗️ Architecture
